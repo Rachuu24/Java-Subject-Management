@@ -1,0 +1,5 @@
+com\example\subjectmanagement\controller\SubjectController.class
+com\example\subjectmanagement\service\SubjectService.class
+com\example\subjectmanagement\repository\SubjectRepository.class
+com\example\subjectmanagement\model\Subject.class
+com\example\subjectmanagement\SubjectmanagementApplication.class
